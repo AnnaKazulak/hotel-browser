@@ -1,0 +1,162 @@
+[
+  {
+    "name": "ABC Hotel",
+    "city": "Gdynia",
+    "price": 390,
+    "description": "ABC is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi!",
+    "image": "https://c.pxhere.com/photos/18/03/building_hotel_vacation_architecture-99905.jpg!s",
+    "breakfasts": true,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.636510448736!2d-122.08627838483662!3d37.42206557982515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1spl!2spl!4v1614865833179!5m2!1spl!2spl",
+    "opinions": [
+      {
+        "author": "Hania",
+        "content": "Świetna lokalizacja oraz personel. Serdecznie polecam :)",
+        "stars": 5
+      },
+      {
+        "author": "Agnieszka",
+        "content": "Wszystko ok",
+        "stars": 4
+      },
+      {
+        "author": "Żaneta",
+        "stars": 4
+      },
+      {
+        "author": "Natalia",
+        "stars": 3
+      }
+    ]
+  },
+  {
+    "name": "DEF Apartament",
+    "city": "Gdynia",
+    "price": 320,
+    "description": "DEF is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi!",
+    "image": "https://c.pxhere.com/photos/b5/44/water_summer_resort_sunbed_blue_relax_pool_hotel-1122255.jpg!s",
+    "breakfasts": false,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.636510448736!2d-122.08627838483662!3d37.42206557982515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1spl!2spl!4v1614865833179!5m2!1spl!2spl",
+    "opinions": [
+      {
+        "author": "Lucyna",
+        "content": "Polecam",
+        "stars": 5
+      },
+      {
+        "author": "Janek",
+        "stars": 4
+      },
+      {
+        "author": "Natalia",
+        "stars": 3
+      }
+    ]
+  },
+  {
+    "name": "GHI Hotel",
+    "city": "Gdańsk",
+    "price": 399,
+    "description": "GHI is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi!",
+    "image": "https://c.pxhere.com/photos/ea/12/hotel_bedroom_bed_pillow_lamp-113250.jpg!s",
+    "breakfasts": true,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.636510448736!2d-122.08627838483662!3d37.42206557982515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1spl!2spl!4v1614865833179!5m2!1spl!2spl",
+    "opinions": []
+  },
+  {
+    "name": "JKL Apartament",
+    "city": "Sopot",
+    "price": 299,
+    "description": "JKL is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi!",
+    "image": "https://c.pxhere.com/photos/1b/10/towel_rose_clean_care_salon_spa_white_bath-731641.jpg!s",
+    "breakfasts": true,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.636510448736!2d-122.08627838483662!3d37.42206557982515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1spl!2spl!4v1614865833179!5m2!1spl!2spl",
+    "opinions": [
+      {
+        "author": "Marek",
+        "content": "Okropne jedzenie, w pokoju brudno. Nie polecam",
+        "stars": 1
+      },
+      {
+        "author": "Cezary",
+        "stars": 4
+      },
+      {
+        "author": "Monika",
+        "stars": 3
+      }
+    ]
+  },
+  {
+    "name": "MNO Apartament",
+    "city": "Gdańsk",
+    "price": 159,
+    "description": "MNO is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi!",
+    "image": "https://c.pxhere.com/photos/8a/4f/burj_al_arab_dubai_hotel_architecture_beach_sand_ocean_sea-892687.jpg!s",
+    "breakfasts": false,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.636510448736!2d-122.08627838483662!3d37.42206557982515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1spl!2spl!4v1614865833179!5m2!1spl!2spl",
+    "opinions": [
+      {
+        "author": "Jakub",
+        "stars": 2
+      }
+    ]
+  },
+  {
+    "name": "PRS Hotel",
+    "city": "Gdynia",
+    "price": 439,
+    "description": "PRS is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi!",
+    "image": "https://c.pxhere.com/photos/a2/93/pillow_bed_bedroom_hotel_space-115188.jpg!s",
+    "breakfasts": true,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.636510448736!2d-122.08627838483662!3d37.42206557982515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1spl!2spl!4v1614865833179!5m2!1spl!2spl",
+    "opinions": [
+      {
+        "author": "Janek",
+        "content": "Trochę drogo, ale obsługa pierwsza klasa",
+        "stars": 5
+      },
+      {
+        "author": "Agnieszka",
+        "content": "Świetny personel",
+        "stars": 5
+      },
+      {
+        "author": "Michał",
+        "stars": 4
+      },
+      {
+        "author": "Ryszard",
+        "stars": 5
+      },
+      {
+        "author": "Julia",
+        "stars": 5
+      }
+    ]
+  },
+  {
+    "name": "TUW Apartament",
+    "city": "Gdynia",
+    "price": 299,
+    "description": "TUW is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi!",
+    "image": "https://c.pxhere.com/photos/97/04/hotel_room_bed_pillows_room_hotel_bedroom_lamp_interior-607447.jpg!s",
+    "breakfasts": true,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.636510448736!2d-122.08627838483662!3d37.42206557982515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1spl!2spl!4v1614865833179!5m2!1spl!2spl",
+    "opinions": [
+      {
+        "author": "Grzegorz",
+        "stars": 4
+      }
+    ]
+  },
+  {
+    "name": "XYZ Apartament",
+    "city": "Sopot",
+    "price": 229,
+    "description": "XYZ is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi!",
+    "image": "https://c.pxhere.com/photos/6c/de/bedroom_bed_bedside_lamp_bedside_light_room_sleep_home_apartment-782063.jpg!s",
+    "breakfasts": false,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.636510448736!2d-122.08627838483662!3d37.42206557982515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1spl!2spl!4v1614865833179!5m2!1spl!2spl",
+    "opinions": []
+  }
+]

@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;700&display=swap");
+@import "@/styles/variables.scss";
+
+* {
+  box-sizing: border-box;
+  &::after,
+  &::before {
+    box-sizing: border-box;
+  }
+}
+
+body {
+  width: 100%;
+
+  margin: 0;
+  padding: 0;
+  background-color: $bg-primary;
+  font-family: "Baloo 2", sans-serif;
+  #app {
+    height: calc(100vh - 40px);
+    width: 100%;
+  }
+}
+
+input {
+  font-family: "Baloo 2", sans-serif;
+}
