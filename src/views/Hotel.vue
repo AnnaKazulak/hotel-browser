@@ -116,7 +116,7 @@ export default {
       width: 500px;
       height: 300px;
       object-fit: cover;
-      border-radius: 20px;
+      border-radius: 8px;
       box-shadow: 0 0 20px $bg-secondary;
       margin-right: 20px;
     }
@@ -125,6 +125,7 @@ export default {
       flex-direction: column;
       justify-content: space-between;
       .info__description {
+        text-align: justify;
       }
       .info__details {
         display: flex;
@@ -143,23 +144,27 @@ export default {
   }
 
   .hotel__map {
-    border-radius: 20px;
-    margin-top: 20px;
     width: 90%;
-    max-width: 1000px;
-    height: 400px;
+    max-width: 1200px;
+
+    margin-top: 20px;
+
+    padding: 0 20px;
+    // width: 90%;
+    // max-width: 1000px;
+    height: 350px;
     border: none;
   }
   .hotel__opinions {
     width: 100%;
-    max-width: 1000px;
+    max-width: 1200px;
     margin-top: 50px;
     padding: 0 20px;
     .opinion {
       margin: 20px 0;
       padding: 10px;
       box-shadow: 0 0 10px $bg-secondary;
-      border-radius: 10px;
+      border-radius: 8px;
       .opinion___author {
         display: flex;
         font-weight: bold;

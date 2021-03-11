@@ -23,7 +23,7 @@ export default {
 .sort-menu-wrapper {
   position: fixed;
   bottom: 30px;
-  right: 30px;
+  right: 400px;
   width: 40px;
   height: 40px;
   background-color: $bg-primary;

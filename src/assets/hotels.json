@@ -1,12 +1,12 @@
 [
   {
-    "name": "ABC Hotel",
+    "name": "Przymorze Hotel",
     "city": "Gdynia",
     "price": 390,
-    "description": "ABC is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi!",
+    "description": "Przymorze Hotel is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi! Swag fingerstache literally church-key, photo booth gastropub air plant succulents marfa listicle knausgaard XOXO. Hell of fingerstache hot chicken, edison bulb truffaut ennui etsy meggings chillwave bushwick chartreuse 8-bit austin art party craft beer. Semiotics migas pok pok artisan organic stumptown. Small batch hexagon seitan schlitz fam master cleanse flexitarian YOLO cliche kombucha PBR&B tilde pabst truffaut. ",
     "image": "https://c.pxhere.com/photos/18/03/building_hotel_vacation_architecture-99905.jpg!s",
     "breakfasts": true,
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.636510448736!2d-122.08627838483662!3d37.42206557982515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1spl!2spl!4v1614865833179!5m2!1spl!2spl",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d37140.30756074484!2d18.5620190166324!3d54.42288005021034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fd0b243b5e6ae5%3A0x612435d1162629d9!2sIRS%20ROYAL%20APARTMENTS%20-%20IRS%20Neptun%20Park!5e0!3m2!1sde!2sde!4v1615466928274!5m2!1sde!2sde",
     "opinions": [
       {
         "author": "Hania",
@@ -29,13 +29,13 @@
     ]
   },
   {
-    "name": "DEF Apartament",
+    "name": "Baltyk Apartament",
     "city": "Gdynia",
     "price": 320,
-    "description": "DEF is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi!",
+    "description": "Baltyk Apartament is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi! Offal waistcoat unicorn art party, before they sold out ennui roof party air plant tofu drinking vinegar pug narwhal. Portland flexitarian before they sold out williamsburg butcher meditation swag fashion axe gentrify, coloring book kale chips 8-bit dreamcatcher echo park lyft. Hexagon jean shorts williamsburg mlkshk, XOXO polaroid palo santo etsy. Pug tattooed wayfarers, paleo etsy synth subway tile celiac banjo. 3 wolf moon meditation jianbing la croix.",
     "image": "https://c.pxhere.com/photos/b5/44/water_summer_resort_sunbed_blue_relax_pool_hotel-1122255.jpg!s",
     "breakfasts": false,
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.636510448736!2d-122.08627838483662!3d37.42206557982515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1spl!2spl!4v1614865833179!5m2!1spl!2spl",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9264.219470052281!2d18.531577686867646!3d54.514893738323124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fda73b148765cb%3A0xb897f68dbde00431!2sGdynia%20apartament!5e0!3m2!1sde!2sde!4v1615467056515!5m2!1sde!2sde",
     "opinions": [
       {
         "author": "Lucyna",
@@ -53,23 +53,23 @@
     ]
   },
   {
-    "name": "GHI Hotel",
+    "name": "Posejdon Hotel",
     "city": "Gdańsk",
     "price": 399,
-    "description": "GHI is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi!",
+    "description": "Posejdon Hotel is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi! Kombucha man bun banjo, pickled normcore cronut mlkshk vinyl kinfolk butcher paleo cliche single-origin coffee. Copper mug celiac beard next level pop-up post-ironic keffiyeh etsy poke cronut affogato chartreuse neutra. Health goth kitsch migas, cliche ugh semiotics salvia art party kickstarter tilde typewriter hashtag crucifix jianbing jean shorts. Scenester celiac ethical taiyaki paleo raw denim jean shorts iceland air plant flexitarian. Keytar shoreditch iPhone unicorn. Beard seitan sustainable edison bulb typewriter, pabst williamsburg biodiesel.",
     "image": "https://c.pxhere.com/photos/ea/12/hotel_bedroom_bed_pillow_lamp-113250.jpg!s",
     "breakfasts": true,
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.636510448736!2d-122.08627838483662!3d37.42206557982515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1spl!2spl!4v1614865833179!5m2!1spl!2spl",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2321.2719382294613!2d18.594940851443997!3d54.42283210113639!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fd0adf4d14ce9d%3A0x9479dbdce0b31639!2sHotel%20Mercure%20Gdansk%20Posejdon!5e0!3m2!1sde!2sde!4v1615466704907!5m2!1sde!2sde",
     "opinions": []
   },
   {
-    "name": "JKL Apartament",
+    "name": "Neptun Apartament",
     "city": "Sopot",
     "price": 299,
-    "description": "JKL is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi!",
+    "description": "Neptun Apartament is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi! Authentic la croix YOLO, pour-over offal sartorial fanny pack enamel pin poutine. Small batch kitsch flannel typewriter fingerstache try-hard thundercats narwhal letterpress artisan chillwave food truck semiotics lumbersexual. XOXO bushwick blue bottle selvage tumblr, vice ugh. Tilde art party heirloom godard, meh chambray tacos PBR&B mixtape austin. Selfies tumblr paleo, XOXO banh mi semiotics fingerstache wayfarers thundercats. Thundercats single-origin coffee la croix beard fashion axe, letterpress lumbersexual sriracha. Selvage subway tile cloud bread twee biodiesel helvetica freegan.",
     "image": "https://c.pxhere.com/photos/1b/10/towel_rose_clean_care_salon_spa_white_bath-731641.jpg!s",
     "breakfasts": true,
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.636510448736!2d-122.08627838483662!3d37.42206557982515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1spl!2spl!4v1614865833179!5m2!1spl!2spl",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d74403.42868872349!2d18.63809352411165!3d54.3550876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fd7304622f9441%3A0x13996c1c1bdce663!2sApartament%20Neptun!5e0!3m2!1sde!2sde!4v1615467348594!5m2!1sde!2sde",
     "opinions": [
       {
         "author": "Marek",
@@ -87,13 +87,13 @@
     ]
   },
   {
-    "name": "MNO Apartament",
+    "name": "Oliva Apartament",
     "city": "Gdańsk",
     "price": 159,
-    "description": "MNO is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi!",
+    "description": "Oliva Apartament is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi! Waistcoat ugh roof party iceland. Tbh hammock mixtape disrupt, keytar unicorn pabst literally. Lumbersexual tumblr shoreditch taxidermy, gentrify green juice selfies fixie. Twee before they sold out umami vice, ethical pop-up jianbing taiyaki palo santo. Williamsburg franzen sartorial lomo pour-over authentic subway tile. Ethical raw denim distillery art party keffiyeh. Artisan asymmetrical direct trade VHS mixtape vaporware wayfarers.",
     "image": "https://c.pxhere.com/photos/8a/4f/burj_al_arab_dubai_hotel_architecture_beach_sand_ocean_sea-892687.jpg!s",
     "breakfasts": false,
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.636510448736!2d-122.08627838483662!3d37.42206557982515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1spl!2spl!4v1614865833179!5m2!1spl!2spl",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d74407.30239318285!2d18.577370358203122!3d54.352948400000024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fd73b3ad3be8a9%3A0xeea9d836b79316a2!2sApartamenty%20Gdansk!5e0!3m2!1sde!2sde!4v1615467656132!5m2!1sde!2sde",
     "opinions": [
       {
         "author": "Jakub",
@@ -102,13 +102,13 @@
     ]
   },
   {
-    "name": "PRS Hotel",
+    "name": "Altstadt Hotel",
     "city": "Gdynia",
     "price": 439,
-    "description": "PRS is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi!",
+    "description": "Altstadt Hotel is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi! Offal keffiyeh scenester semiotics tofu dreamcatcher hammock bicycle rights before they sold out drinking vinegar. Literally succulents normcore copper mug raw denim four loko vice mlkshk meggings taxidermy iPhone hammock. Health goth humblebrag retro hoodie waistcoat deep v tote bag. Brooklyn crucifix messenger bag leggings lyft, kogi seitan offal hot chicken wayfarers occupy. Meggings taxidermy subway tile air plant unicorn cold-pressed readymade godard meh lomo sustainable vice ethical offal. Poke taxidermy normcore, taiyaki blue bottle listicle pok pok pinterest. Shabby chic hella franzen, drinking vinegar beard jean shorts hashtag prism fingerstache green juice ethical jianbing ramps yr.",
     "image": "https://c.pxhere.com/photos/a2/93/pillow_bed_bedroom_hotel_space-115188.jpg!s",
     "breakfasts": true,
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.636510448736!2d-122.08627838483662!3d37.42206557982515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1spl!2spl!4v1614865833179!5m2!1spl!2spl",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d74406.19309593145!2d18.587957558203122!3d54.35356099999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46e27ed14cc9fda5%3A0xf4c7154460829298!2sHilton%20Gdansk!5e0!3m2!1sde!2sde!4v1615467761257!5m2!1sde!2sde",
     "opinions": [
       {
         "author": "Janek",
@@ -135,13 +135,13 @@
     ]
   },
   {
-    "name": "TUW Apartament",
+    "name": "Piekny Apartament",
     "city": "Gdynia",
     "price": 299,
-    "description": "TUW is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi!",
+    "description": "Piekny Apartament is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi! Woke chia craft beer seitan adaptogen yr cornhole taiyaki tumblr celiac hashtag. Cardigan celiac tumeric adaptogen quinoa four dollar toast snackwave kogi viral typewriter sartorial lumbersexual hot chicken artisan. Next level keffiyeh twee, try-hard migas echo park tumblr synth selfies. Pickled truffaut put a bird on it, crucifix viral occupy cold-pressed iceland echo park shoreditch kickstarter selvage poke before they sold out portland. Hexagon fanny pack put a bird on it cred. Pok pok echo park food truck bushwick, cronut air plant semiotics.",
     "image": "https://c.pxhere.com/photos/97/04/hotel_room_bed_pillows_room_hotel_bedroom_lamp_interior-607447.jpg!s",
     "breakfasts": true,
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.636510448736!2d-122.08627838483662!3d37.42206557982515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1spl!2spl!4v1614865833179!5m2!1spl!2spl",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d74405.61530753416!2d18.587270734639844!3d54.35388007688215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x617b1677f737073!2sNoclegi%20w%20Gda%C5%84sku%20Noclegowo!5e0!3m2!1sde!2sde!4v1615467823840!5m2!1sde!2sde",
     "opinions": [
       {
         "author": "Grzegorz",
@@ -150,13 +150,13 @@
     ]
   },
   {
-    "name": "XYZ Apartament",
+    "name": "Wygodny Apartament",
     "city": "Sopot",
     "price": 229,
-    "description": "XYZ is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi!",
+    "description": "Wygodny Apartament is a lorem ipsum dolor sit, amet consectetur adipisicing elit. Et corporis nulla, rerum illum numquam ex maiores ipsa, quod maxime magnam officia sequi voluptatum! Voluptatem qui assumenda ullam facilis inventore excepturi! Pitchfork master cleanse prism forage. Fanny pack sustainable craft beer PBR&B, farm-to-table pour-over man bun everyday carry. Tousled 8-bit gluten-free intelligentsia mixtape offal. Af semiotics quinoa, man bun pork belly hoodie authentic hot chicken health goth mlkshk seitan everyday carry pinterest. Williamsburg ramps banh mi cornhole etsy. Bitters lo-fi mixtape poutine kinfolk taxidermy schlitz echo park four loko truffaut craft beer chartreuse. Cloud bread listicle palo santo mixtape fashion axe, wolf narwhal bushwick photo booth organic chillwave kitsch bespoke freegan franzen.",
     "image": "https://c.pxhere.com/photos/6c/de/bedroom_bed_bedside_lamp_bedside_light_room_sleep_home_apartment-782063.jpg!s",
     "breakfasts": false,
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.636510448736!2d-122.08627838483662!3d37.42206557982515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1spl!2spl!4v1614865833179!5m2!1spl!2spl",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d74405.61530753416!2d18.587270734639844!3d54.35388007688215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6cca2b3a911c37fe!2sMilena%20Apartment%20Gda%C5%84sk!5e0!3m2!1sde!2sde!4v1615467912676!5m2!1sde!2sde",
     "opinions": []
   }
 ]

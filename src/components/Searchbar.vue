@@ -19,7 +19,7 @@ export default {
   position: relative;
   margin: 2px 0;
   width: 100%;
-  max-width: 500px;
+  max-width: 700px;
 
   .searchbar__icon {
     position: absolute;
@@ -34,7 +34,7 @@ export default {
     border: none;
     // border-bottom: 3px solid $decorative;
     padding: 7px 10px 7px 35px;
-    border-radius: 20px;
+    border-radius: 15px;
     box-shadow: 0 0 10px $bg-secondary;
     outline: none;
     font-size: 16px;

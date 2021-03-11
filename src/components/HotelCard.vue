@@ -42,11 +42,11 @@ export default {
   display: flex;
   align-items: center;
   width: 100%;
-  max-width: 600px;
+  max-width: 1000px;
   margin: 15px;
   padding: 20px;
   box-shadow: 0 0 20px $bg-secondary;
-  border-radius: 20px;
+  border-radius: 10px;
 
   .hotel__stars {
     position: absolute;
@@ -54,9 +54,10 @@ export default {
     right: 10px;
   }
   .hotel__image {
-    width: 100px;
-    height: 100px;
-    border-radius: 10px;
+    width: 300px;
+
+    height: 120px;
+    border-radius: 2px;
     margin-right: 20px;
     object-fit: cover;
   }
