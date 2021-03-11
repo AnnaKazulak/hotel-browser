@@ -16,6 +16,14 @@
         </div>
       </div>
     </div>
+    <iframe
+      class="hotel__map"
+      :src="hotel.locationUrl"
+      width="1000"
+      height="450"
+      allowfullscreen=""
+      loading="lazy"
+    ></iframe>
     <div class="hotel__opinions">
       <div
         class="opinion"
@@ -132,6 +140,15 @@ export default {
         }
       }
     }
+  }
+
+  .hotel__map {
+    border-radius: 20px;
+    margin-top: 20px;
+    width: 90%;
+    max-width: 1000px;
+    height: 400px;
+    border: none;
   }
   .hotel__opinions {
     width: 100%;
